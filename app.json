@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reactnative-data-fetching",
+    "slug": "reactnative-data-fetching",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "reactnative-data-fetching"
+}
